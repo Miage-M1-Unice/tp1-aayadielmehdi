@@ -1,5 +1,7 @@
 package fr.miage.m1.tp1;
+
 import java.io.File;
+
 public class ListProfondeur {
 	
 	private File[] list ;

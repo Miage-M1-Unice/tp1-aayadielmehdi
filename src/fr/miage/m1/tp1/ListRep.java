@@ -6,7 +6,6 @@ public class ListRep {
 	private String[] list ;
 	
 	public ListRep(String a) {
-		// TODO Stub du constructeur généré automatiquement
 		File current = new File(a);
 		list = current.list();		 
 	}
