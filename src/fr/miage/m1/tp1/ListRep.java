@@ -1,4 +1,4 @@
-package exo1;
+package fr.miage.m1.tp1;
 import java.io.*;
 
 public class ListRep {

@@ -1,4 +1,4 @@
-package exo1;
+package fr.miage.m1.tp1;
 import java.io.File;
 public class ListProfondeur {
 	
@@ -21,6 +21,7 @@ public class ListProfondeur {
     			if(k[i].isDirectory()){    				
     				//go(k[i]);
     				// a faire;
+    				// changerrrrr package
     			}else{
     				s+=k[i]+"\n";	
     			}    			
